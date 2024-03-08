@@ -7,3 +7,5 @@
   ```npm install react```
 
 sistema de Registro 2
+
+ejecutar sistema actualizado
